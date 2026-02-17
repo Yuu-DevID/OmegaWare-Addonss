@@ -57,7 +57,7 @@ public class OmegawareAddons extends MeteorAddon {
     // Update repo version tag to reflect Minecraft target (kept simple).
     @Override
     public GithubRepo getRepo() {
-        return new GithubRepo("Omega172", "OmegaWare-Addons", "1.21.10", null);
+        return new GithubRepo("Omega172", "OmegaWare-Addons", "1.21.11", null);
     }
 
     @Override
