@@ -51,13 +51,13 @@ public class OmegawareAddons extends MeteorAddon {
 
     @Override
     public String getWebsite() {
-        return "https://github.com/Omega172/OmegaWare-Addons";
+        return "https://github.com/Yuu-DevID/OmegaWare-Addonss";
     }
 
     // Update repo version tag to reflect Minecraft target (kept simple).
     @Override
     public GithubRepo getRepo() {
-        return new GithubRepo("Omega172", "OmegaWare-Addons", "1.21.11", null);
+        return new GithubRepo("Yuu-DevID", "OmegaWare-Addonss", "1.21.11", null);
     }
 
     @Override
